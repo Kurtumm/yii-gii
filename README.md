@@ -1,3 +1,3 @@
 # yii-gii
 
-clone to framework/gii
+clone to your framework/gii
